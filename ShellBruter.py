@@ -12,7 +12,7 @@ def ReadPass(pass_file,result_file):
     pass_file.close()
     # 生成可用参数格式并存入列表pass_list
     for line in lines:
-        pass_list.append("&"+line.strip()+"=echo "+line.strip()+";")
+        pass_list.append('&'+line.strip()+'=echo "'+line.strip()+'";')
     list_length = len(pass_list) # 列表元素个数
     '''
     print("列表元素个数:"+str(list_length))
