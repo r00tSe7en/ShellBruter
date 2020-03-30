@@ -31,4 +31,4 @@ https://www.t00ls.net/thread-36985-1-1.html
 
 ![](https://raw.githubusercontent.com/r00tSe7en/pictures/master/2020.03.23/4.png)
 
-此方法可灵活使用，在用户名枚举上也有奇效（二分法），其余可自由发挥。
+此方法可灵活使用，其余可自由发挥。
